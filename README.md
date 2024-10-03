@@ -1,0 +1,1 @@
+# postgres-nextjs-drf-chatgpt-consulting
